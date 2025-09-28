@@ -1,4 +1,4 @@
-Github pages:
+Github pages: https://vovvlaladasd.github.io/VERST-LEFT
 
 Первый макет: https://github.com/VovVlaladasd/MAKET-VERS.git
 Github pages: https://github.com/VovVlaladasd/MAKET-VERS/tree/main
